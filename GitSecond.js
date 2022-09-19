@@ -4,5 +4,4 @@ console.log('이거 수정')
 
 console.log('하나추가')
 console.log('둘추가')
-console.log('셋추가')
 
